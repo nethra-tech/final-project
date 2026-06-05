@@ -1,0 +1,9 @@
+streamlit
+google-genai
+groq
+supabase
+pdfplumber
+pandas
+reportlab
+python-dotenv
+requests
